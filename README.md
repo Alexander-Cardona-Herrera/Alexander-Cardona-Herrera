@@ -6,7 +6,7 @@
 
 [![Github](https://img.shields.io/github/followers/vanemcb?label=Follow&style=social)](https://github.com/CharalambosIoannou)
 
-## 👩🏽‍🦱 About me:
+## 🧜🏻‍♂️ About me:
 
 - 🔭 I'm currently studying Full-Stack Web Development on Holberton School
 
